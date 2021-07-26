@@ -76,6 +76,10 @@
 		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
+		},
+		{
+			"Name": "Ansel",
+			"Enabled": true
 		}
 	]
 }
