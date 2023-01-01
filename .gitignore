@@ -12,6 +12,7 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*_BuiltData.uasset
 Content/InteractiveLights
 Content/Developers
 Content/LowPoly_Cat
