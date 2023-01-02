@@ -13,6 +13,7 @@ Saved
 *.xcodeproj
 *.xcworkspace
 *_BuiltData.uasset
+*.blend1
 Content/InteractiveLights
 Content/Developers
 Content/LowPoly_Cat
