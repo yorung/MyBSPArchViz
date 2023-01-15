@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.27",
+	"EngineAssociation": "5.1",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -47,10 +47,6 @@
 			]
 		},
 		{
-			"Name": "StaticMeshEditorExtension",
-			"Enabled": true
-		},
-		{
 			"Name": "DatasmithGLTFImporter",
 			"Enabled": true
 		},
@@ -75,10 +71,6 @@
 		},
 		{
 			"Name": "MovieRenderPipeline",
-			"Enabled": true
-		},
-		{
-			"Name": "Ansel",
 			"Enabled": true
 		}
 	]
